@@ -13,6 +13,15 @@
 
 Heart disease is the largest leading cause of death in the U.S. killing around 696,962 Americans in 2020. While heart decease is a large umbrella term encompassing many heart conditions, heart failure is a major proponent of it. With this being such a dire condition, it would be advantageous to analyze heart failure and shed light on some of the contributing factors that lead to a  fatal case.
 
+## Interesting Facts About Heart Disease
+
+- Heart disease is the leading cause of death for men, women, and people of most racial and ethnic groups in the United States
+- One person dies every 36 seconds in the United States from cardiovascular disease.
+- Heart disease costs the United States about $363 billion each year from 2016 to 2017. This total includes the cost of health care services, medicines, and lost productivity due to death
+
+Data Source: https://www.cdc.gov/heartdisease/facts.htm
+
+
 ## Project overview 
 University of Central Florida (UCF) Data Analytics Group 3 project analyzed topic related on heart failure prediction by using machine learning and visualizations to interpret heart failure data and predict when a case will result in death. With our gleaned knowledge, we will make suggestions on what health care should pay attention to in advising their patients and what to look for to determine the severity of the case.
 
