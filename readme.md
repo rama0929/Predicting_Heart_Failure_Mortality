@@ -11,7 +11,7 @@
 
 ## Introdution
 
-Heart disease is the largest leading cause of death in the U.S. killing around 696,962 Americans in 2020. While heart decease is a large umbrella term encompassing many heart conditions, heart failure is a major proponent of it. With this being such a dire condition, it would be advantageous to analyze heart failure and shed light on some of the contributing factors that lead to a  fatal case.
+Heart disease is the largest leading cause of death in the U.S. killing around 696,962 Americans in 2020. While heart disease is a large umbrella term encompassing many heart conditions, heart failure is a major proponent of it. With this being such a dire condition, it would be advantageous to analyze heart failure and shed light on some of the contributing factors that lead to a  fatal case.
 
 ## Project overview 
 University of Central Florida (UCF) Data Analytics Group 3 project analyzed topic related on heart failure prediction by using machine learning and visualizations to interpret heart failure data and predict when a case will result in death. With our gleaned knowledge, we will make suggestions on what health care should pay attention to in advising their patients and what to look for to determine the severity of the case.
