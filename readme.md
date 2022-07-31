@@ -19,9 +19,18 @@ Heart disease is the largest leading cause of death in the U.S. killing around 6
 ## Project overview 
 University of Central Florida (UCF) Data Analytics Group 3 project analyzed topic related on heart failure prediction by using machine learning and visualizations to interpret heart failure data and predict when a case will result in death. With our gleaned knowledge, we will make suggestions on what health care should pay attention to in advising their patients and what to look for to determine the severity of the case.
 
-# Questions we want to answer
+## Questions we want to answer
 
 ## Machine Learning Model 
+
+Preliminary Preprocessing of ML Models:
+
+Data Preprocessing:
+
+
+Training/Testing Sets:
+
+Model Choice Reasoning:
 
 * File source : Heart_Failure/Predicting_Heart_Failure_Mortality.ipynb
 
@@ -42,15 +51,17 @@ University of Central Florida (UCF) Data Analytics Group 3 project analyzed topi
 <img width="1107" alt="Screen Shot 2022-07-10 at 3 12 55 PM" src="https://user-images.githubusercontent.com/39811614/178158809-1bb0cac5-06e7-43f3-a33d-cfe60119f57e.png">
 
 
-## Dashboard
+## Tableau Dashboard
 
+Heart Failure Prediction					
+https://public.tableau.com/shared/JPMJMC4HQ?:display_count=n&:origin=viz_share_link
 
-# potential heart failure predictions
+Geographic Map
+https://public.tableau.com/views/HeartFailure_GeoData/Sheet4?:language=en-US&:display_count=n&:origin=viz_share_link
 
-## Final project - part 2
+## Potential heart failure predictions
 
-## Machine learning model - final project 2022
-
+## Conclusion
 
 ## Resources
 
