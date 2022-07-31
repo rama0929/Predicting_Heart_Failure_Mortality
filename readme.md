@@ -9,12 +9,17 @@
 * Arielle Baez - Framework Creation  - Circle
 * Corina Taggart / Rafael Amaya - X - Project Contributors 
 
+## Presentation
+[![clickhere](https://user-images.githubusercontent.com/39811614/182038239-aedb39ee-12b7-4e14-b919-d4b9b007f1b1.png)](https://docs.google.com/presentation/d/1zz7a-C6wCRbzemPMWhQPOu5Y4kytbCtVtkEbUBhLkXk/edit?usp=sharing)
+
 ## Introdution
 
 Heart disease is the largest leading cause of death in the U.S. killing around 696,962 Americans in 2020. While heart decease is a large umbrella term encompassing many heart conditions, heart failure is a major proponent of it. With this being such a dire condition, it would be advantageous to analyze heart failure and shed light on some of the contributing factors that lead to a  fatal case.
 
 ## Project overview 
 University of Central Florida (UCF) Data Analytics Group 3 project analyzed topic related on heart failure prediction by using machine learning and visualizations to interpret heart failure data and predict when a case will result in death. With our gleaned knowledge, we will make suggestions on what health care should pay attention to in advising their patients and what to look for to determine the severity of the case.
+
+# Questions we want to answer
 
 ## Machine Learning Model 
 
@@ -35,6 +40,17 @@ University of Central Florida (UCF) Data Analytics Group 3 project analyzed topi
 <img width="497" alt="Screen Shot 2022-07-10 at 3 13 54 PM" src="https://user-images.githubusercontent.com/39811614/178158804-dda709ea-67b1-42b6-b018-6c6a249ea326.png">
 
 <img width="1107" alt="Screen Shot 2022-07-10 at 3 12 55 PM" src="https://user-images.githubusercontent.com/39811614/178158809-1bb0cac5-06e7-43f3-a33d-cfe60119f57e.png">
+
+
+## Dashboard
+
+
+# potential heart failure predictions
+
+## Final project - part 2
+
+## Machine learning model - final project 2022
+
 
 ## Resources
 
