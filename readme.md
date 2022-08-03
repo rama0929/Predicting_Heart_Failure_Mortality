@@ -50,6 +50,10 @@
 
 <img width="1107" alt="Screen Shot 2022-07-10 at 3 12 55 PM" src="https://user-images.githubusercontent.com/39811614/178158809-1bb0cac5-06e7-43f3-a33d-cfe60119f57e.png">
 
+- Total columns after data cleaning ETL.
+
+<img width="734" alt="Screen Shot 2022-08-03 at 7 02 38 PM" src="https://user-images.githubusercontent.com/39811614/182727326-2bec7b05-3f29-4a87-a562-c91e34d478fc.png">
+
 
 ## Tableau Dashboard
 
@@ -79,7 +83,7 @@ https://public.tableau.com/views/HeartFailure_GeoData/Sheet4?:language=en-US&:di
 
 - Due to the limits of our dataset and the public data we were able to find, we were left wanting on a few key points. Such as, what lifestyle habits contribute to heart failure? We more specifically would like to look into diet and activity level. Are sedentary individuals more likely to suffer from heart disease? Furthermore, does poverty play a major role? One would assume so! Healthy habits and eating often require money. The price of a gym membership and organic foods are unobtainable to those who are impoverished. Finally, is heart failure and heart disease detectable in someone’s genetics? If so, how much of a role do genetics play? If my father and grandfather had heart disease, am I bound to the same fate?
 
-In addition, we would like to find and incorporate other variables from heart failures in further investigations as well as to apply varios methods of machine learning. 
+- In addition, we would like to find and incorporate other variables from heart failures in further investigations as well as to apply varios methods of machine learning. 
 
 
 ## Resources
