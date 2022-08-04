@@ -1,0 +1,15 @@
+Good evening, 
+Welcome to Group 3’s presentation, Predicting Heart Failure Mortality
+My name is Rafael Amaya and I am joined by Arielle, Corina, Jean Carlo, and Tanner. 
+According to the CDC, Heart disease is the largest leading cause of death in the U.S. Nearly 700,000 Americans died from it in 2020. Heart disease is a large umbrella term that covers many different conditions, up to and including the following;
+* Coronary Artery Disease (CAD)
+* Heart Arrhythmias
+* Heart Failure
+* Heart Valve Disease
+* Pericardial Disease
+* Cardiomyopathy (Heart Muscle Disease)
+* Congenital Heart Disease
+For the purposes of our study, we will be focusing on heart failure. Heart failure, not to be confused with heart attacks, is when the heart is unable to pump blood efficiently and effectively to the various parts of the body. This is different from heart attacks, which occur when there is a sudden loss of blood flow to the heart, usually caused by a blockage; for example a blood clot. 
+There are four stages of heart failure, lettered A – D. The stages range from "pre-heart failure (developing)" to "advanced heart failure.”
+Given that heart failure is such a dire condition, and common; almost 6 million Americans have been diagnosed with it and is the leading cause of hospitalization in people older than 65, we thought it to be advantageous to analyze heart failure and shed light on some of the contributing factors that lead to a fatal case. To arrive at our conclusions, we began looking at heart failure and then decided to expand our view and looking deeper into heart disease in general in the second dataset
+
